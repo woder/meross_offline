@@ -1,0 +1,8 @@
+{
+  "domain": "meross_offline",
+  "name": "Meross Offline",
+  "documentation": "https://github.com/woder/meross_offline",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}

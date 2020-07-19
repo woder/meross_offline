@@ -1,0 +1,125 @@
+{
+    "user": "",
+    "ssid": "",
+    "password": "",
+    "interface": "en0",
+    "server": "<IP>",
+    "port": 8883,
+    "ca_cert": "/home/homeassistant/.config/meross/ca.crt",
+    "devices": {
+        "name": {
+            "friendly_name": "desklamp",
+            "hardware": {
+                "type": "msl420",
+                "subType": "us",
+                "version": "2.0.0",
+                "chipType": "mt7682",
+                "uuid": "1812142387465829088034298f19598e",
+                "macAddress": "34:29:8f:19:59:8e"
+            },
+            "firmware": {
+                "version": "2.1.4",
+                "compileTime": "2018/11/20 13:42:43 GMT +08:00",
+                "wifiMac": "34:29:8f:19:59:8e",
+                "innerIp": "",
+                "server": "",
+                "port": 0,
+                "userId": 0
+            },
+            "time": {
+                "timestamp": 24,
+                "timezone": "",
+                "timeRule": []
+            },
+            "online": {
+                "status": 2
+            }
+        },
+        "test": {
+            "friendly_name": "dded",
+            "hardware": {
+                "type": "msl420",
+                "subType": "us",
+                "version": "2.0.0",
+                "chipType": "mt7682",
+                "uuid": "1812142387465829088034298f19598e",
+                "macAddress": "34:29:8f:19:59:8e"
+            },
+            "firmware": {
+                "version": "2.1.4",
+                "compileTime": "2018/11/20 13:42:43 GMT +08:00",
+                "wifiMac": "34:29:8f:19:59:8e",
+                "innerIp": "",
+                "server": "",
+                "port": 0,
+                "userId": 0
+            },
+            "time": {
+                "timestamp": 367,
+                "timezone": "",
+                "timeRule": []
+            },
+            "online": {
+                "status": 2
+            }
+        }, 
+        "humidifier": {
+            "friendly_name": "Humidifier",
+            "hardware": {
+                "type": "msxh0",
+                "subType": "us",
+                "version": "2.0.0",
+                "chipType": "mt7682",
+                "uuid": "1909298371978190803148e1e952ffcb",
+                "macAddress": "48:e1:e9:52:ff:cb"
+            },
+            "firmware": {
+                "version": "2.1.11",
+                "compileTime": "2019/08/30 09:26:24 GMT +08:00",
+                "wifiMac": "48:e1:e9:52:ff:cb",
+                "innerIp": "",
+                "server": "",
+                "port": 0,
+                "userId": 0
+            },
+            "time": {
+                "timestamp": 199,
+                "timezone": "",
+                "timeRule": []
+            },
+            "online": {
+                "status": 2
+            }
+        },
+        "heater": {
+            "friendly_name": "Heater",
+            "hardware": {
+                "type": "mss110",
+                "subType": "us",
+                "version": "2.0.0",
+                "chipType": "mt7682",
+                "uuid": "1908222975939525185748e1e90258d1",
+                "macAddress": "48:e1:e9:02:58:d1"
+            },
+            "firmware": {
+                "version": "2.1.14",
+                "compileTime": "2019/07/31 14:46:31 GMT +08:00",
+                "wifiMac": "48:e1:e9:02:58:d1",
+                "innerIp": "",
+                "server": "",
+                "port": 0,
+                "userId": 0
+            },
+            "time": {
+                "timestamp": 109,
+                "timezone": "",
+                "timeRule": []
+            },
+            "online": {
+                "status": 2
+            }
+        } 
+
+
+    }
+}
