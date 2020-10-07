@@ -11,4 +11,4 @@ Copy the device config file it generates into the config.json file found at the 
 the path to this file within the config.json file. The plugin will then make all of the entities you specified in the config.json and register them within Home Assistant. 
 
 ## More information
-For more information, check out the blog post on how I managed to use my Meross Devices offline: https://wltd.org
+For more information, check out the blog post on how I managed to use my Meross Devices offline: https://wltd.org/posts/how-to-use-meross-smart-devices-as-cheap-offline-iot
